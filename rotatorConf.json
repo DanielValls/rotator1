@@ -13,11 +13,6 @@
       "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
-    },
-    {
-      "url": "https://github.com/KevinSheedy/chrome-tab-rotate.git",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 300
     }
   ]
 }
