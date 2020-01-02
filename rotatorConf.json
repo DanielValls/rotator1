@@ -1,0 +1,33 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://gfi1.sharepoint.com/sites/GTSI749/_layouts/15/Doc.aspx?sourcedoc={3a4c9c77-4c7e-4984-aecd-f7bdd64fb9bb}&action=embedview&wdAllowInteractivity=False&Item=Chart%201&wdDownloadButton=True&wdInConfigurator=True",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://github.com/KevinSheedy/chrome-tab-rotate.git",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://ie.linkedin.com/in/kevinsheedy",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
